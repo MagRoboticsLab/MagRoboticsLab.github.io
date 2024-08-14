@@ -169,14 +169,14 @@ Soft Magnet Attitude Control
 ---
 
 ## Alumni
-* Yile Shen (2021.09-2024.06). He is currently pursuing a master's degree at National University of Singapore.
-* Kuan Tian (2021.09-2023.11). He is currently pursuing a master's degree at Tsinghua University (Shenzhen).
-* Xinlei Zhang (2021.09-2024.07). He is currently pursuing a doctoral degree at North Carolina State University in America.
-* Wei Yan (2022.07 - 2023.06). He is currently pursuing a master's degree at Hong Kong University of Science and Technology (Guangzhou).
+* Yile Shen (2021.09-2024.06). He is currently pursuing a master's degree at **National University of Singapore**.
+* Kuan Tian (2021.09-2023.11). He is currently pursuing a master's degree at **Tsinghua University (Shenzhen)**.
+* Xinlei Zhang (2021.09-2024.07). He is currently pursuing a doctoral degree at **North Carolina State University** in America.
+* Wei Yan (2022.07 - 2023.06). He is currently pursuing a master's degree at **Hong Kong University of Science and Technology (Guangzhou)**.
 * Jingwen Deng (2022.07 - 2023.06). She is currently pursuing a master's degree at South China University of Technology.
 * Ji'nan Guo (2023.02 - 2023.09). She is currently pursuing a master's degree at South China University of Technology.
-* Xinyi Li (2022.10 - 2023.06). She is currently pursuing a master's degree at University of Edinburgh, UK
-* Kaixiang Zhang (2022.04 - 2023.6). He will soon study for a master's degree at South China University of Technology.
+* Xinyi Li (2022.10 - 2023.06). She is currently pursuing a master's degree at **University of Edinburgh**, UK.
+* Kaixiang Zhang (2022.04 - 2023.6). He is currently pursuing a master's degree at South China University of Technology.
 
 
 
