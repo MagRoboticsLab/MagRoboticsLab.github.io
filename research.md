@@ -8,11 +8,12 @@ navigation_weight: 3
 # Research
 
 
-The research of Dong Lab will focus on three aspects: 
+The research of our Lab is focused on the following areas: 
 
-* The design, manufacture and control of **miniature soft robots**, and their applications in minimally invasive medicine, biomechanics and microfluidics. 
-* The design, manufacture and control of **miniature swarm robots**, and their applications in biomedicine and biomechanics. 
-* The modeling, design, manufacture and control of **intelligent soft materials and devices** based on mechanics model and machine learning. 
+* Novel magnetic sensing and actuation principles, including new magnetic materials, structures and functions. 
+* Intelligent estimation, control, planning, and learning algorithms for magnetically navigated medical robots.
+* Multi-functional magnetic navigation systems for pose tracking, shape sensing, locomotion, and manipulation of multi-scale miniature medical robots (e.g., capsule robots, continuum robots, micro-nano robots, etc.)
+* Simulation and virtual training platforms to facilitate research, development and application of magnetic robots in minimally invasive medicine.
 
 
 
@@ -24,19 +25,17 @@ The research of Dong Lab will focus on three aspects:
 ---------
 *********
 
-# **Medical miniature robots**
-* **Key words**: Droplet robots, drug delivery, robotic capsule endoscopes, magnetic actuation and localization
+# **New Magnetic Tracking Method: Soft-Magnet-based Pose Tracking System**
 
 <img src="medical_robot.png" alt="medical robot" width="800"/> 
+> Conventional magnetic tracking systems can be categorized as electromagnet-based systems (EM) and permanent-magnet-based systems (PM). EM tracking systems use a magnetic sensor on the target to measure the magnetic field of stationary electromagnet sources for pose estimation. However, EM systems need electric wiring to the moving sensor, which is delicate and easily broken. The wiring issue also prevents the EM systems from tracking untethered robots. PM tracking systems use an array of magnetic sensors to track a permanent magnet on the target. However, PM systems can only achieve 5-DoF pose tracking and suffer from ambient ferromagnetic disturbances.
+> To address the above challenges in existing magnetic tracking systems, our lab proposes and develops a new magnetic tracking system based on the soft magnet with high magnetic permeability and low coercivity. A piece of soft magnet is attached to the target while an excitation electromagnet and magnetic sensors are stationary. The soft magnet experiences a position-dependent magnetization by the alternating magnetic field from the electromagnet, and then it generates a secondary magnetic field, which is measured for pose estimation. This new soft-magnet-based tracking method has been uitilized for 1-DoF linear/angular position measurement, 3-DoF position tracking, and 6-DoF pose tracking of various medical robots and devices.
 
-
-## Droplet soft robots
+## Soft-Magnet-based Tracking: 1-DoF Linear/Angular Position Measurement System
 [1] Fan, X.#, **Dong, X.#**, Karacakol, A.C., Xie, H. and Sitti, M., 2020. Reconfigurable multifunctional ferrofluid droplet robots. Proceedings of the National Academy of Sciences, 117(45), pp.27916-27926. [Link](https://www.pnas.org/content/117/45/27916.short)
 
-![Droplet](droplet.jpeg) 
-> Magnetically actuated miniature soft robots are capable of programmable deformations for multimodal locomotion and manipulation functions, potentially enabling direct access to currently unreachable or difficult-to-access regions inside the human body for minimally invasive medical operations. However, magnetic miniature soft robots are so far mostly based on elastomers, where their limited deformability prevents them from navigating inside clustered and very constrained environments, such as squeezing through narrow crevices much smaller than the robot size. Moreover, their functionalities are currently restricted by their predesigned shapes, which is challenging to be reconfigured in situ in enclosed spaces. 
-
-> Here, we report a method to actuate and control ferrofluid droplets as shape-programmable magnetic miniature soft robots, which can navigate in two dimensions through narrow channels much smaller than their sizes thanks to their liquid properties. By controlling the external magnetic fields spatiotemporally, these droplet robots can also be reconfigured to exhibit multiple functionalities, including on-demand splitting and merging for delivering liquid cargos and morphing into different shapes for efficient and versatile manipulation of delicate objects. In addition, a single-droplet robot can be controlled to split into multiple subdroplets and complete cooperative tasks, such as working as a programmable fluidic-mixing device for addressable and sequential mixing of different liquids. Due to their extreme deformability, in situ reconfigurability and cooperative behavior, the proposed ferrofluid droplet robots could open up a wide range of unprecedented functionalities for lab/organ-on-a-chip, fluidics, bioengineering, and medical device applications.
+![1-DoF position sensing](soft-magnet tracking_1D.png) 
+> The soft-magnet-based position sensing principle is utilized to develop linear position measurement systems for linear industrial actuators and angular position measurement systems for rotational mechanical joints.
 
 <iframe width="820" height="462" src="https://www.youtube.com/embed/vYDYIHm5EN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
