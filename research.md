@@ -84,32 +84,27 @@ We develope active electromagnetic tracking technologies to improve tracking acc
 > The orientation of the electromagnet source is actively controlled to always point to the sensor (target) to maintain the optimal tracking accuracy.
 
 
----------
-*********
+# **Magnetic-Inertial Tracking System**
 
-# **Bioinspired soft robots**
-* **Key words**: soft robots, bioinspiration, biomechanics, swimming robots, fluidic manipulation
+We fuse magnetic sensing and inertial sensing to achieve accurate and robust 6-DoF pose tracking for various medical applications, e.g., medical robot localization and virtual medical training.
 
-<img src="bioinspired_soft_robot.png" alt="soft robots" width="800"/> 
+## Developement of Magnetic-Inertial Tracking System
 
-## Artificial cilia
-[7] **Dong, X.#**, Lum, G.Z.#, Hu, W.#, Zhang, R., Ren, Z., Onck, P.R. and Sitti, M., 2020. Bioinspired cilia arrays with programmable nonreciprocal motion and metachronal coordination. Science advances, 6(45), p.eabc9323. [Link](https://advances.sciencemag.org/content/6/45/eabc9323)
+[9] S. Dong, **H. Wang***, A compact and robust 6-DoF pose tracking system using magnetic-inertial sensors and a single uniaxial electromagnetic coil, IEEE Sensors Journal, Dec. 2023.
 
-<img src="cilia.jpeg" alt="cilia robot" width="600"/> 
+![magnetic-inertial tracking](magnetic_inertial.png) 
 
+> In magnetic-inertial tracking systems, only one electromagnetic coil is used, which makes the system compact. Fused with an inertial sensor, the tracking system become more robust.
 
-> Coordinated nonreciprocal dynamics in biological cilia is essential to many living systems, where the emergentmetachronal waves of cilia have been hypothesized to enhance net fluid flows at low Reynolds numbers (Re). Experimental investigation of this hypothesis is critical but remains challenging. Here, we report soft miniature devices with both ciliary nonreciprocal motion and metachronal coordination and use them to investigate the quantitative relationship between metachronal coordination and the induced fluid flow. We found that only antiplectic metachronal waves with specific wave vectors could enhance fluid flows compared with the synchronized case. These findings further enable various bioinspired cilia arrays with unique functionalities of pumping and mixing viscous synthetic and biological complex fluids at low Re. Our design method and developed soft miniature devices provide unprecedented opportunities for studying ciliary biomechanics and creating cilia-inspired wireless microfluidic pumping, object manipulation and lab- and organ-on-a-chip devices, mobile microrobots, and bioengineering systems.
+## Virtual Ultrasound Training System based on Magnetic-Inertial Probe Tracking
 
+[10] **H. Wang**#, S. Dong#, Q. Yang, J. Han, Z. He, Y. He*, S. Wang*, "A virtual ultrasonography simulator for skill training using magnetic-inertial probe tracking," IEEE/ASME Transactions on Mechatronics, June 2023.
 
-<iframe width="846" height="502" src="https://www.youtube.com/embed/up3zPToiRd0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+![virtual ultrasound](virtual_ultrasound.png) 
 
+> A compact, inexpensive, and interactive ultrasonography simulator is developed using magnetic-inertial probe tracking and virtual ultrasound image generation. Embedded with magnetic and inertial sensors, the sham ultrasound probe is tracked by fusing magnetic measurement of a single electromagnet embedded in the phantom and inertial measurement of the probe. Then the virtual scan plane is determined according to the estimated probe pose to slice the digital anatomical model
+for virtual image generation, providing visual feedback for skill training. Due to intuitive freehand interaction, accurate probe tracking, and real-time visual guidance of ultrasound images and three-dimensional (3-D) virtual scene of the probe and anatomy, the proposed simulator can provide immersive training experience for quick ultrasound skill acquirement.
 
-## Design methodology of soft robots
-[8] Lum, G.Z.#, Ye, Z.#, **Dong, X.#**, Marvi, H., Erin, O., Hu, W. and Sitti, M., 2016. Shape-programmable magnetic soft matter. Proceedings of the National Academy of Sciences, 113(41), pp.E6007-E6015. [Link](https://www.pnas.org/content/113/41/E6007) 
-
-<img src="pnas_design.jpg" alt="Design" width="600"/>
-
-> At small scales, shape-programmable magnetic materials have significant potential to achieve mechanical functionalities that are unattainable by traditional miniature machines. Unfortunately, these materials have only been programmed for a small number of specific applications, as previous work can only rely on human intuition to approximate the required magnetization profile and actuating magnetic fields for such materials. Here, we propose a universal programming methodology that can automatically generate the desired magnetization profile and actuating fields for soft materials to achieve new time-varying shapes. The proposed method can enable other researchers to fully capitalize the potential of shape-programming technologies, allowing them to create a wide range of novel soft active surfaces and devices that are critical in robotics, material science, and medicine.
 
 
 
