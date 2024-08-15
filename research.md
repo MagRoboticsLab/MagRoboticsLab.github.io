@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Wang Lab
-description: Research
+title: Magnetic Medical Robotics Lab
+description: PI: Dr. Heng Wang
 navigation_weight: 3
 
 ---
