@@ -59,32 +59,29 @@ The research of our Lab is focused on the following areas:
 
 ![6-DoF pose tracking](soft-magnet tracking_6D.png) 
 
-The soft-magnet-based position sensing principle is extended for 6-DoF pose tracking. A triaxially anisotropic soft magnet is used as the sensitive target instead of a spherical soft magnet. The geometry-dependent anisotropic magnetization of the soft magnet enables 3-DoF orientation sensing. The developed soft-magnet tracking system can achieve full 6-DoF pose tracking with a passive magnet, which is not feasible in existing permanent-magnet tracking systems.
+> The soft-magnet-based position sensing principle is extended for 6-DoF pose tracking. A triaxially anisotropic soft magnet is used as the sensitive target instead of a spherical soft magnet. The geometry-dependent anisotropic magnetization of the soft magnet enables 3-DoF orientation sensing. The developed soft-magnet tracking system can achieve full 6-DoF pose tracking with a passive magnet, which is not feasible in existing permanent-magnet tracking systems.
 
 
-## Liquid biopsy medical robots (coming soon)
+# **Active Electromagnetic Tracking Systems**
 
-# **Microrobots for manipulation**
+We develope active electromagnetic tracking technologies to improve tracking accuracy, to enlarge workspace, and to save energy of electromagnetic tracking systems.
+
+## Active Tracking: Electromagnet Current Control
+[6] **H. Wang**, A. Zemouche and R. Rajamani*, “Nonlinear Observer for Electromagnetic Position Estimation Using Active Current Control”, Mechanical Systems and Signal Processing, vol. 167, 108449, 2022.
+
+[7] **Heng Wang** and Rajesh Rajamani*, “Electromagnetic Position Estimation Using Active Current Control and Nonlinear Observer”, in 2020 American Control Conference (ACC), Denver, USA, 2020. (ASME DSCD Mechatronics TC Best Paper Award)
+
+![active current tracking](active_current.png) 
+
+> The current supply to the electromagnet source is actively controlled during pose tracking. The current is increased when the sensor (target) moves away from the electromagnet to remedy the magnetic sensitivity. An optimal current profile is designed and the current is controlled according to the profile based on the position estimate of the target. A nonlinear observer is designed to guarantee stability of both current control and position estimation.
 
 
-**Key words**: soft microgrippers, control and motion planning, 3D assseembly, tissue engineering
-<img src="manipulation.png" alt="robotic manipulation" width="800"/> 
+## Active Tracking: Electromagnet Orientation Control
+[8] Y. Shen, S. Dong, D. Liu, K. Zhang, **H. Wang***, "Active 6-DoF Electromagnetic Pose Tracking Using Orientation Control of the Magnetic Source", IEEE International Conference on Robotics and Biomimetics (ROBIO), 2023.
 
+![active orientation tracking](active_orientation.png) 
 
-## 3D dexterous manipulation
-[5] Chung, S.E.#, **Dong, X.#** and Sitti, M., 2015. Three-dimensional heterogeneous assembly of coded microgels using an untethered mobile microgripper. Lab on a Chip, 15(7), pp.1667-1676. [Link](https://pubs.rsc.org/en/content/articlepdf/2015/lc/c5lc00009b)
-
-> Abstract: Three-dimensional (3D) heterogeneous assembly of coded microgels in enclosed aquatic environments is demonstrated using a remotely actuated and controlled magnetic microgripper by a customized electromagnetic coil system. The microgripper uses different ‘stick–slip’ and ‘rolling’ locomotion in 2D and also levitation in 3D by magnetic gradient-based pulling force. This enables the microrobot to precisely manipulate each microgel by controlling its position and orientation in all x–y–z directions. Our microrobotic assembly method broke the barrier of limitation on the number of assembled microgel layers, because it enabled precise 3D levitation of the microgripper. We used the gripper to assemble microgels that had been coded with different colours and shapes onto prefabricated polymeric microposts. This eliminates the need for extra secondary cross-linking to fix the final construct. We demonstrated assembly of microgels on a single micropost up to ten layers. By increasing the number and changing the distribution of the posts, complex heterogeneous microsystems were possible to construct in 3D.
-
-
-<iframe width="820" height="496" src="https://www.youtube.com/embed/gAwHHdvs4Eo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-## Motion planning for automatic grasping
-[6] **Dong, X.** and Sitti, M., 2017, May. Planning spin-walking locomotion for automatic grasping of microobjects by an untethered magnetic microgripper. In 2017 IEEE International Conference on Robotics and Automation (ICRA) (pp. 6612-6618). IEEE. [Link](https://ieeexplore.ieee.org/abstract/document/7989782)
-
-<img src="planning.png" alt="gripper planning" width="600"/> 
-
-> Most demonstrated mobile microrobot tasks so far have been achieved via pick-and-placing and dynamic trapping with teleoperation or simple path following algorithms. In our previous work, an untethered magnetic microgripper has been developed which has advanced functions, such as gripping objects. Both teleoperated manipulation in 2D and 3D have been demonstrated. However, it is challenging to control the magnetic microgripper to carry out manipulation tasks, because the grasping of objects so far in the literature relies heavily on teleoperation, which takes several minutes with even a skilled human expert. Here, we propose a new spin-walking locomotion and an automated 2D grasping motion planner for the microgripper, which enables time-efficient automatic grasping of microobjects that has not been achieved yet for untethered microrobots. In its locomotion, the microgripper repeatedly rotates about two principal axes to regulate its pose and move precisely on a surface. The motion planner could plan different motion primitives for grasping and compensate the uncertainties in the motion by learning the uncertainties and planning accordingly. We experimentally demonstrated that, using the proposed method, the microgripper could align to the target pose with error less than 0.1 body length and grip the objects within 40 seconds. Our method could significantly improve the time efficiency of micro-scale manipulation and have potential applications in microassembly and biomedical engineering.
+> The orientation of the electromagnet source is actively controlled to always point to the sensor (target) to maintain the optimal tracking accuracy.
 
 
 ---------
