@@ -54,7 +54,13 @@ The research of our Lab is focused on the following areas:
 >  The soft-magnet-based position sensing principle is utilized to develop a 3-DoF position tracking system for a flexible medical robot. The highly nonlinear magnetic response to soft-magnet motion is modeled. Experimental results show that the position tracking error is below 5 mm.
 
 
-## Soft climbing medical robots (coming soon)
+## Soft-Magnet-based Tracking: 6-DoF Pose Tracking System
+[5] S. Liu, **H. Wang***, A wireless 6-DoF pose tracking system using a triaxially anisotropic soft magnet, IEEE/ASME Transactions on Mechatronics, 2024.
+
+![6-DoF pose tracking](soft-magnet tracking_6D.png) 
+
+The soft-magnet-based position sensing principle is extended for 6-DoF pose tracking. A triaxially anisotropic soft magnet is used as the sensitive target instead of a spherical soft magnet. The geometry-dependent anisotropic magnetization of the soft magnet enables 3-DoF orientation sensing. The developed soft-magnet tracking system can achieve full 6-DoF pose tracking with a passive magnet, which is not feasible in existing permanent-magnet tracking systems.
+
 
 ## Liquid biopsy medical robots (coming soon)
 
