@@ -41,20 +41,17 @@ The research of our Lab is focused on the following areas:
 [3] **Heng Wang***#, Shuangyi Wang#, Rajesh Rajamani, “Electromagnetic Angular Position Sensing Using High-Magnetic-Permeability Materials”, IEEE Sensors Journal, vol. 22, no. 12, pp. 11626-11636, 2022.
 
 ![1-DoF position sensing](soft-magnet tracking_1D.png) 
+
 > The soft-magnet-based position sensing principle is utilized to develop linear position measurement systems for linear industrial actuators and angular position measurement systems for rotational mechanical joints.
 
 <iframe width="820" height="462" src="https://www.youtube.com/embed/vYDYIHm5EN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Magnetically actuated endoscopes
-[2] Son, D., **Dong, X.** and Sitti, M., 2018. A simultaneous calibration method for magnetic robot localization and actuation systems. IEEE Transactions on Robotics, 35(2), pp.343-352. [link](https://ieeexplore.ieee.org/abstract/document/8594561)
+## Soft-Magnet-based Tracking: 3-DoF Position Tracking of Flexible Robots
+[4] **H. Wang**#, S. Wang#, H. Liu, K. Rhode, Z. G. Hou, R. Rajamani*, “3-D Electromagnetic Position Estimation System Using High-Magnetic-Permeability Metal for Transluminal Continuum Medical Robots”,  IEEE Robotics and Automation Letters (also reported on ICRA 2022), vol. 7, no. 2, pp. 2581 – 2588, Jan. 2022.
 
-[3] [European patent](https://data.epo.org/publication-server/document?iDocId=6267866&iFormat=2)
+![3-DoF position tracking](soft-magnet tracking_3D.png) 
 
-[4] [US patent](https://patentimages.storage.googleapis.com/22/4d/c0/fbea0611f36694/US20200196844A1.pdf)
-
-<img src="sensing_actuation.png" alt="capsule robot" width="800"/> 
-
-> This paper proposes a method of simultaneously calibrating magnetic localization and actuation systems for magnetically actuated robots. In this method, uncalibrated magnetic localization and actuation systems are calibrated simultaneously with minimal human intervention, which enables self-calibration, flexible reconfiguration, and long-term correctness of the system parameters. This method employs a bundle adjustment framework using a quadratic measurement model for sensors and the magnetic dipole model for actuators. The proposed method has been verified in comparison with finite element simulations and existing calibration methods for magnetic actuators and sensor arrays. In the experiments, the determinant of coefficient (R2 value) was 99.84% for the sensor system and 99.45% for the actuator system after the calibration, comparable with individual state-of-art calibration methods of calibrating magnetic actuators and sensor arrays. This method has potential to improve the reconfigurability and long-term accuracy of magnetic robot localization and actuation systems, such as magnetically actuated capsule endoscopes.
+>  The soft-magnet-based position sensing principle is utilized to develop a 3-DoF position tracking system for a flexible medical robot. The highly nonlinear magnetic response to soft-magnet motion is modeled. Experimental results show that the position tracking error is below 5 mm.
 
 
 ## Soft climbing medical robots (coming soon)
