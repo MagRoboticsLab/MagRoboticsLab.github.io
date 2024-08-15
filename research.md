@@ -26,7 +26,7 @@ The research of our Lab is focused on the following areas:
 
 # **New Magnetic Tracking Method: Soft-Magnet-based Pose Tracking System**
 
-<img src="medical_robot.png" alt="medical robot" width="800"/> 
+![principle](soft-magnet tracking_principle.png) 
 
 > Conventional magnetic tracking systems can be categorized as electromagnet-based systems (EM) and permanent-magnet-based systems (PM). EM tracking systems use a magnetic sensor on the target to measure the magnetic field of stationary electromagnet sources for pose estimation. However, EM systems need electric wiring to the moving sensor, which is delicate and easily broken. The wiring issue also prevents the EM systems from tracking untethered robots. PM tracking systems use an array of magnetic sensors to track a permanent magnet on the target. However, PM systems can only achieve 5-DoF pose tracking and suffer from ambient ferromagnetic disturbances.
 
