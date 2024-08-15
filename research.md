@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Magnetic Medical Robotics Lab
-description: PI Dr. Heng Wang
+description: PI  Dr. Heng Wang
 navigation_weight: 3
 
 ---
@@ -17,8 +17,7 @@ The research of our Lab is focused on the following areas:
 
 
 
-<img src="magnetic_systems.png" alt="magnetic system" width="800"/> 
-* A magnetic robotic system is consisted of 1) an intelligent magnetic actuation system, such as an electromagnet actuation system or mobile permanent-magnet system, 2) magnetic miniature robots (rigid or soft, single or swarm, tethered or untethered), and 3) a sensing system such as cameras or medical imaging machines.
+![research overview](research overview.png) 
 
 
 
