@@ -20,9 +20,16 @@ The research of our Lab is focused on the following areas:
 ![research overview](research overview.png) 
 
 
+# **Magnetic Capsule Robot**
 
----------
-*********
+## 3-DoF Orientation Manipulation of Capsule Robots with a Triaxial Anisotropic Soft Magnet
+
+[1] **H. Wang***, J. Cui, K. Tian, Y. Han, "Three-degrees-of-freedom orientation manipulation of small untethered robots with a single anisotropic soft magnet", Nature Communications, vol 14,  no. 1, 7491, Nov. 2023. (**Editor's Highlight Paper in Applied Mathematics and Physics**)
+
+![soft magnet actuation](soft-magnet actuation.png)
+
+> Conventional permanent magnet based magnetic actuation can only achieve 2-DoF orientation control and 5-DoF manipulation of small untethered robots. In this work, a triaxial ellipsoidal soft magnet is used as the actuation element for capsule robots instead of a permanent magnet to achieve full 3-DoF orientation manipulation.
+
 
 # **New Magnetic Tracking Method: Soft-Magnet-based Pose Tracking System**
 
@@ -34,11 +41,11 @@ The research of our Lab is focused on the following areas:
 
 ## Soft-Magnet-based Tracking: 1-DoF Linear/Angular Position Measurement System
 
-[1] **H. Wang** and R. Rajamani*, “A Remote Position Sensing Method Based on Passive High Magnetic Permeability Thin Films”, Sensors and Actuators A: Physical, vol. 295, pp. 217-223, 2019.
+[2] **H. Wang** and R. Rajamani*, “A Remote Position Sensing Method Based on Passive High Magnetic Permeability Thin Films”, Sensors and Actuators A: Physical, vol. 295, pp. 217-223, 2019.
 
-[2] **H. Wang**, R. Madson and R. Rajamani*, “Electromagnetic Position Measurement System Immune to Ferromagnetic Disturbances”, IEEE Sensors Journal, vol. 19, no. 21, pp. 9662-9671, July 2019.
+[3] **H. Wang**, R. Madson and R. Rajamani*, “Electromagnetic Position Measurement System Immune to Ferromagnetic Disturbances”, IEEE Sensors Journal, vol. 19, no. 21, pp. 9662-9671, July 2019.
 
-[3] **Heng Wang***#, Shuangyi Wang#, Rajesh Rajamani, “Electromagnetic Angular Position Sensing Using High-Magnetic-Permeability Materials”, IEEE Sensors Journal, vol. 22, no. 12, pp. 11626-11636, 2022.
+[4] **Heng Wang***#, Shuangyi Wang#, Rajesh Rajamani, “Electromagnetic Angular Position Sensing Using High-Magnetic-Permeability Materials”, IEEE Sensors Journal, vol. 22, no. 12, pp. 11626-11636, 2022.
 
 ![1-DoF position sensing](soft-magnet tracking_1D.png) 
 
@@ -47,7 +54,7 @@ The research of our Lab is focused on the following areas:
 <iframe width="820" height="462" src="https://www.youtube.com/embed/vYDYIHm5EN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Soft-Magnet-based Tracking: 3-DoF Position Tracking of Flexible Robots
-[4] **H. Wang**#, S. Wang#, H. Liu, K. Rhode, Z. G. Hou, R. Rajamani*, “3-D Electromagnetic Position Estimation System Using High-Magnetic-Permeability Metal for Transluminal Continuum Medical Robots”,  IEEE Robotics and Automation Letters (also reported on ICRA 2022), vol. 7, no. 2, pp. 2581 – 2588, Jan. 2022.
+[5] **H. Wang**#, S. Wang#, H. Liu, K. Rhode, Z. G. Hou, R. Rajamani*, “3-D Electromagnetic Position Estimation System Using High-Magnetic-Permeability Metal for Transluminal Continuum Medical Robots”,  IEEE Robotics and Automation Letters (also reported on ICRA 2022), vol. 7, no. 2, pp. 2581 – 2588, Jan. 2022.
 
 ![3-DoF position tracking](soft-magnet tracking_3D.png) 
 
@@ -55,7 +62,7 @@ The research of our Lab is focused on the following areas:
 
 
 ## Soft-Magnet-based Tracking: 6-DoF Pose Tracking System
-[5] S. Liu, **H. Wang***, A wireless 6-DoF pose tracking system using a triaxially anisotropic soft magnet, IEEE/ASME Transactions on Mechatronics, 2024.
+[6] S. Liu, **H. Wang***, A wireless 6-DoF pose tracking system using a triaxially anisotropic soft magnet, IEEE/ASME Transactions on Mechatronics, 2024.
 
 ![6-DoF pose tracking](soft-magnet tracking_6D.png) 
 
@@ -67,9 +74,9 @@ The research of our Lab is focused on the following areas:
 We develope active electromagnetic tracking technologies to improve tracking accuracy, to enlarge workspace, and to save energy of electromagnetic tracking systems.
 
 ## Active Tracking: Electromagnet Current Control
-[6] **H. Wang**, A. Zemouche and R. Rajamani*, “Nonlinear Observer for Electromagnetic Position Estimation Using Active Current Control”, Mechanical Systems and Signal Processing, vol. 167, 108449, 2022.
+[7] **H. Wang**, A. Zemouche and R. Rajamani*, “Nonlinear Observer for Electromagnetic Position Estimation Using Active Current Control”, Mechanical Systems and Signal Processing, vol. 167, 108449, 2022.
 
-[7] **Heng Wang** and Rajesh Rajamani*, “Electromagnetic Position Estimation Using Active Current Control and Nonlinear Observer”, in 2020 American Control Conference (ACC), Denver, USA, 2020. (ASME DSCD Mechatronics TC Best Paper Award)
+[8] **Heng Wang** and Rajesh Rajamani*, “Electromagnetic Position Estimation Using Active Current Control and Nonlinear Observer”, in 2020 American Control Conference (ACC), Denver, USA, 2020. (ASME DSCD Mechatronics TC Best Paper Award)
 
 ![active current tracking](active_current.png) 
 
@@ -77,7 +84,7 @@ We develope active electromagnetic tracking technologies to improve tracking acc
 
 
 ## Active Tracking: Electromagnet Orientation Control
-[8] Y. Shen, S. Dong, D. Liu, K. Zhang, **H. Wang***, "Active 6-DoF Electromagnetic Pose Tracking Using Orientation Control of the Magnetic Source", IEEE International Conference on Robotics and Biomimetics (ROBIO), 2023.
+[9] Y. Shen, S. Dong, D. Liu, K. Zhang, **H. Wang***, "Active 6-DoF Electromagnetic Pose Tracking Using Orientation Control of the Magnetic Source", IEEE International Conference on Robotics and Biomimetics (ROBIO), 2023.
 
 ![active orientation tracking](active_orientation.png) 
 
@@ -90,7 +97,7 @@ We fuse magnetic sensing and inertial sensing to achieve accurate and robust 6-D
 
 ## Development of Magnetic-Inertial Tracking System
 
-[9] S. Dong, **H. Wang***, A compact and robust 6-DoF pose tracking system using magnetic-inertial sensors and a single uniaxial electromagnetic coil, IEEE Sensors Journal, Dec. 2023.
+[10] S. Dong, **H. Wang***, A compact and robust 6-DoF pose tracking system using magnetic-inertial sensors and a single uniaxial electromagnetic coil, IEEE Sensors Journal, Dec. 2023.
 
 ![magnetic-inertial tracking](magnetic_inertial.png) 
 
@@ -98,7 +105,7 @@ We fuse magnetic sensing and inertial sensing to achieve accurate and robust 6-D
 
 ## Virtual Ultrasound Training System based on Magnetic-Inertial Probe Tracking
 
-[10] **H. Wang**#, S. Dong#, Q. Yang, J. Han, Z. He, Y. He*, S. Wang*, "A virtual ultrasonography simulator for skill training using magnetic-inertial probe tracking," IEEE/ASME Transactions on Mechatronics, June 2023.
+[11] **H. Wang**#, S. Dong#, Q. Yang, J. Han, Z. He, Y. He*, S. Wang*, "A virtual ultrasonography simulator for skill training using magnetic-inertial probe tracking," IEEE/ASME Transactions on Mechatronics, June 2023.
 
 ![virtual ultrasound](virtual_ultrasound.png) 
 
@@ -107,26 +114,9 @@ for virtual image generation, providing visual feedback for skill training. Due 
 
 
 
+# **Magnetic Capsule Robot**
 
-## Bio-inspired swimming robots
-[9] Ren, Z.#, Hu, W.#, **Dong, X.** and Sitti, M., 2019. Multi-functional soft-bodied jellyfish-like swimming. Nature communications, 10(1), pp.1-12. [Link](https://www.nature.com/articles/s41467-019-10549-7.pdf)
-
-<img src="jellyfish.jpg" alt="swimming robot" width="600"/> 
-
-> The functionalities of the untethered miniature swimming robots significantly decrease as the robot size becomes smaller, due to limitations of feasible miniaturized on-board components. Here we propose an untethered jellyfish-inspired soft millirobot that could realize multiple functionalities in moderate Reynolds number by producing diverse controlled fluidic flows around its body using its magnetic composite elastomer lappets, which are actuated by an external oscillating magnetic field. We particularly investigate the interaction between the robot’s soft body and incurred fluidic flows due to the robot’s body motion, and utilize such physical interaction to achieve different predation-inspired object manipulation tasks. The proposed lappet kinematics can inspire other existing jellyfish-like robots to achieve similar functionalities at the same length and time scale. Moreover, the robotic platform could be used to study the impacts of the morphology and kinematics changing in ephyra jellyfish.
-
-
-
----------
-*********
-
-# **Swarm microrobots**
-* **Key words**: control, collective motion, cooperative behaviors
-
-
-![Swarm](swarm_all.png) 
-
-## Reconfigurable and cooperative swarms
+## 3-DoF Orientation Manipulation of Capsule Robots with a Triaxial Anisotropic Soft Magnet
 [10] Dong, X. and Sitti, M., 2020. Controlling two-dimensional collective formation and cooperative behavior of magnetic microrobot swarms. The International Journal of Robotics Research, 39(5), pp.617-638. [Link](https://journals.sagepub.com/doi/full/10.1177/0278364920903107)
 
 <iframe width="410" height="307" src="https://www.youtube.com/embed/TVcUt4bgYEE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
