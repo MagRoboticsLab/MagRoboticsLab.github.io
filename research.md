@@ -88,7 +88,7 @@ We develope active electromagnetic tracking technologies to improve tracking acc
 
 We fuse magnetic sensing and inertial sensing to achieve accurate and robust 6-DoF pose tracking for various medical applications, e.g., medical robot localization and virtual medical training.
 
-## Developement of Magnetic-Inertial Tracking System
+## Development of Magnetic-Inertial Tracking System
 
 [9] S. Dong, **H. Wang***, A compact and robust 6-DoF pose tracking system using magnetic-inertial sensors and a single uniaxial electromagnetic coil, IEEE Sensors Journal, Dec. 2023.
 
