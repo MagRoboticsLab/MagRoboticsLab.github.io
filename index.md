@@ -9,7 +9,7 @@ navigation_weight: 1
 
 
 ---------
-![lab focus](group_focus.png){: width="400px" style="float:left; padding-right:20px"} 
+![research overview](research overview.png) 
 **The research of Wang Lab is focused on the following aspects.**
 * Modeling and design of **novel magnetic sensing and actuation principles**, including new magnetic materials, structures and functions.
 * Design of **intelligent estimation, control, planning, and learning algorithms** for magnetic navigation of medical robots.
@@ -23,6 +23,7 @@ navigation_weight: 1
 ## Group News
 
 **2024**
+* (June 30, 2024) Our paper titled "A Wireless 6-DoF Pose Tracking System Using a Triaxially Anisotropic Soft Magnet" has been accepted by **IEEE/ASME Transactions on Mechatronics**!
 
 * (Jan. 05, 2024) Our paper titled "A Compact and Robust 6-DoF Pose Tracking System Using Magnetic-Inertial Sensors and a Single Uniaxial Electromagnetic Coil" has been accepted by **IEEE Sensors Journal**!
 
