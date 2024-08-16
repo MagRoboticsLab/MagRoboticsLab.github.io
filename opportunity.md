@@ -8,8 +8,6 @@ navigation_weight: 7
 # Open Opportunity
 ​Our research focuses on magnetic navigation of multi-scale medical robots (e.g. capsule robots, flexible robots, micro-nano robots), which includes pose tracking, shape sensing, path planning, actuation and locomotion, manipulation and control. Expertise in modeling, design, simulation, and prototyping of mechatronic and robotic systems are welcomed.
 
-![openning](vanderbilt_ad.png) 
-
 
 ## Opening postdoc positions
 * We are actively looking for one postdoc to work on **magnetic navigation systems for flexible/continuum medical robots**.
