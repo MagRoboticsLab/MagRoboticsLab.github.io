@@ -49,6 +49,15 @@ jtzheng_scut@163.com
 Magnetic Navigati​on Simulation; Medical Robotics  
 
 
+![PI](hanyuxiang.jpg){: width="150px" style="float:left; padding-right:10px"} 
+### **Yuxiang Han**  
+**Email:**  
+​202320160073@mail.scut.edu.cn  
+
+**Research Interests:**  
+Magnetic Actuation
+
+
 ---
 
 ## Master Students
@@ -76,7 +85,7 @@ Magnetic Sensing; Soft Magnet Localization; Medical Robot Positioning
 wijhcui@mail.scut.edu.cn  
 
 **Research Interests:**  
-Soft Magnetic Actuation and Control
+Actuation and Control of Soft-Magnet Robot
 
 
 ![PI](huanghaichao.jpg){: width="150px" style="float:left; padding-right:10px"} 
@@ -85,7 +94,7 @@ Soft Magnetic Actuation and Control
 wihuang_haichao@mail.scut.edu.cn
 
 **Research Interests:**  
-Magnetic Field Signal Analysis; Position and Posture Tracking   
+Magnetic Field Signal Analysis; Pose Tracking and Shape Sensing of Continuum Robot   
 
 
 ![PI](songhaoyu.jpg){: width="150px" style="float:left; padding-right:10px"} 
@@ -94,16 +103,7 @@ Magnetic Field Signal Analysis; Position and Posture Tracking 
 202320159929@mail.scut.edu.cn  
 
 **Research Interests:**  
-Magnetic Navigation Simulation of Medical Robots
-
-
-![PI](hanyuxiang.jpg){: width="150px" style="float:left; padding-right:10px"} 
-### **Yuxiang Han**  
-**Email:**  
-​202320160073@mail.scut.edu.cn  
-
-**Research Interests:**  
-Magnetic Actuation
+Simulation of Magnetic Medical Robots
 
 
 ![PI](liudekang.jpg){: width="150px" style="float:left; padding-right:10px"} 
@@ -121,7 +121,7 @@ Magnetic Tracking; Signal Processing
 2339465622@qq.com
 
 **Research Interests:**  
-Path Planning for Magnetic Navigation Robots
+Magnetic Actuation and Navigation
 
 
 ![PI](zengyifeng.jpg){: width="150px" style="float:left; padding-right:10px"} 
@@ -130,39 +130,27 @@ Path Planning for Magnetic Navigation Robots
 ​1654280015@qq.com
 
 **Research Interests:**  
-Magnetic Source and Sensor Coils
+Design of Magnetic Source and Sensor Coils; Magnetic Tracking System
 
+![Yaohao Deng](dengyaohao.jpg){: width="150px" style="float:left; padding-right:10px"} 
+### **Yaohao Deng**  
+**Email:**  
+​***@qq.com
 
+**Research Interests:**  
+Magnetic Tracking System
 
 
 ---
 
 ## Undergraduate Students
-![PI](zhangxinlei.jpg){: width="150px" style="float:left; padding-right:10px"} 
-### **Xinlei Zhang**  
-**Email:**  
-guanqing020613@gmail.com
 
-**Research Interests:**  
-Six Degrees of Freedom Electromagnetic Positioning System; Medical Robot
-
-
-![PI](shenyile.jpg){: width="150px" style="float:left; padding-right:10px"} 
-### **Yile Shen**  
-**Email:**  
-​202030020205@mail.scut.edu.cn
-
-**Research Interests:**  
-Active Sensing; Pose Estimation
-
-
-![PI](tiankuan.jpg){: width="150px" style="float:left; padding-right:10px"} 
-### **Kuan Tian**  
-**Email:**  
-a912206109@163.com
-
-**Research Interests:**  
-Soft Magnet Attitude Control
+### **Gongyue Teng**  
+### **Junxi Zhou**  
+### **Jiaying Zhuo**  
+### **Baolin Long**  
+### **Bixuan Jiang**
+### **Yijia Xu**
 
 
 
@@ -171,12 +159,12 @@ Soft Magnet Attitude Control
 ## Alumni
 * Yile Shen (2021.09-2024.06). He is currently pursuing a master's degree at **National University of Singapore**.
 * Kuan Tian (2021.09-2023.11). He is currently pursuing a master's degree at **Tsinghua University (Shenzhen)**.
-* Xinlei Zhang (2021.09-2024.07). He is currently pursuing a doctoral degree at **North Carolina State University** in America.
+* Xinlei Zhang (2021.09-2024.07). He is currently pursuing a doctoral degree at **North Carolina State University**, USA.
 * Wei Yan (2022.07 - 2023.06). He is currently pursuing a master's degree at **Hong Kong University of Science and Technology (Guangzhou)**.
-* Jingwen Deng (2022.07 - 2023.06). She is currently pursuing a master's degree at South China University of Technology.
-* Ji'nan Guo (2023.02 - 2023.09). She is currently pursuing a master's degree at South China University of Technology.
+* Jingwen Deng (2022.07 - 2023.06). She is currently pursuing a master's degree at **South China University of Technology**.
+* Ji'nan Guo (2023.02 - 2023.09). She is currently pursuing a master's degree at **South China University of Technology**.
 * Xinyi Li (2022.10 - 2023.06). She is currently pursuing a master's degree at **University of Edinburgh**, UK.
-* Kaixiang Zhang (2022.04 - 2023.6). He is currently pursuing a master's degree at South China University of Technology.
+* Kaixiang Zhang (2022.04 - 2023.6). He is currently pursuing a master's degree at **South China University of Technology**.
 
 
 
