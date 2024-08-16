@@ -4,7 +4,7 @@ navigation_weight: 1
 
 ---
 
-![lab log](lab_cover.png)
+![lab log](lab_cover_wanglab.png)
 
 
 
