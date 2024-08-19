@@ -28,7 +28,7 @@ The research of our Lab is focused on the following areas:
 
 ![soft magnet actuation](ResearchSourceDocument/soft-magnet_actuation.png)
 
-![ResearchSourceDocument/orientation.mp4](https://drive.google.com/file/d/1XYbE5HQFSBEPvOA_hWmD3O38J46MsDnU/view)
+
 <iframe width="820" height="462" src="https://drive.google.com/file/d/1XYbE5HQFSBEPvOA_hWmD3O38J46MsDnU/view?usp=sharing" title="Video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
