@@ -12,7 +12,7 @@ navigation_weight: 4
 ## Principal Investigator:
 ### Dr. **Heng Wang**
 
-![PI](wangheng.jpg){: width="250px" style="float:right; padding-right:10px"} 
+![PI](MemberSourceDocument/wangheng.jpg){: width="250px" style="float:right; padding-right:10px"} 
 Professional appointments:  
 2021-present,  **Associate Professor**  
 Shien-Ming Wu School of Intelligent Engineering, South China University of Technology.   
@@ -30,7 +30,7 @@ Dr. Wang's research interests lie in magnetic navigation of medical robots, whic
 -----
 
 ## Ph.D Students
-![liusuqi1](MemberSourceDocument/liusuqi1.jpg){: width="150px" style="float:left; padding-right:10px"} 
+![liusuqi1](MemberSourceDocument/liusuqi.jpg){: width="150px" style="float:left; padding-right:10px"} 
 ### **Suqi Liu**  
 
 **Email:**  
@@ -40,7 +40,7 @@ wisqliu@mail.scut.edu.cn
 Magnetic Sensing; State Estimation
 
 
-![PI](zhengjiatao.jpg){: width="150px" style="float:left; padding-right:10px"} 
+![PI](MemberSourceDocument/zhengjiatao.jpg){: width="150px" style="float:left; padding-right:10px"} 
 ### **Jiatao Zheng**  
 **Email:**  
 jtzheng_scut@163.com  
@@ -49,7 +49,7 @@ jtzheng_scut@163.com
 Magnetic Navigati​on Simulation; Medical Robotics  
 
 
-![PI](hanyuxiang.jpg){: width="150px" style="float:left; padding-right:10px"} 
+![PI](MemberSourceDocument/hanyuxiang.jpg){: width="150px" style="float:left; padding-right:10px"} 
 ### **Yuxiang Han**  
 **Email:**  
 ​202320160073@mail.scut.edu.cn  
@@ -61,7 +61,7 @@ Magnetic Actuation
 ---
 
 ## Master Students
-![PI](dongshuda.jpg){: width="150px" style="float:left; padding-right:10px"} 
+![PI](MemberSourceDocument/dongshuda.jpg){: width="150px" style="float:left; padding-right:10px"} 
 ### **Shuda Dong**  
 **Email:**  
 wishudadong@mail.scut.edu.cn  
@@ -70,7 +70,7 @@ wishudadong@mail.scut.edu.cn
 Magnetic Tracking; Pose Estimation; State Estimation; Active Sensing  
 
 
-![PI](wentao.jpg){: width="150px" style="float:left; padding-right:10px"} 
+![PI](MemberSourceDocument/wentao.jpg){: width="150px" style="float:left; padding-right:10px"} 
 ### **Tao Wen**  
 **Email:**  
 ​witaowen@mail.scut.edu.cn
@@ -79,7 +79,7 @@ Magnetic Tracking; Pose Estimation; State Estimation; Active Sensing
 Magnetic Sensing; Soft Magnet Localization; Medical Robot Positioning
 
 
-![PI](cuijunhao1.jpg){: width="150px" style="float:left; padding-right:10px"} 
+![PI](MemberSourceDocument/cuijunhao.jpg){: width="150px" style="float:left; padding-right:10px"} 
 ### **Junhao Cui**  
 **Email:**  
 wijhcui@mail.scut.edu.cn  
@@ -88,7 +88,7 @@ wijhcui@mail.scut.edu.cn
 Actuation and Control of Soft-Magnet Robot
 
 
-![PI](huanghaichao.jpg){: width="150px" style="float:left; padding-right:10px"} 
+![PI](MemberSourceDocument/huanghaichao.jpg){: width="150px" style="float:left; padding-right:10px"} 
 ### **Haichao Huang**  
 **Email:**  
 wihuang_haichao@mail.scut.edu.cn
@@ -97,7 +97,7 @@ wihuang_haichao@mail.scut.edu.cn
 Magnetic Field Signal Analysis; Pose Tracking and Shape Sensing of Continuum Robot   
 
 
-![PI](songhaoyu.jpg){: width="150px" style="float:left; padding-right:10px"} 
+![PI](MemberSourceDocument/songhaoyu.jpg){: width="150px" style="float:left; padding-right:10px"} 
 ### **Haoyu Song**  
 **Email:**  
 202320159929@mail.scut.edu.cn  
@@ -106,7 +106,7 @@ Magnetic Field Signal Analysis; Pose Tracking and Shape Sensing of Continuum Ro
 Simulation of Magnetic Medical Robots
 
 
-![PI](liudekang.jpg){: width="150px" style="float:left; padding-right:10px"} 
+![PI](MemberSourceDocument/liudekang.jpg){: width="150px" style="float:left; padding-right:10px"} 
 ### **Dekang Liu**  
 **Email:**  
 ​liu_dekang@qq.com  
@@ -115,7 +115,7 @@ Simulation of Magnetic Medical Robots
 Magnetic Tracking; Signal Processing
 
 
-![PI](wangkunli.jpg){: width="150px" style="float:left; padding-right:10px"} 
+![PI](MemberSourceDocument/wangkunli.jpg){: width="150px" style="float:left; padding-right:10px"} 
 ### **Kunli Wang**  
 **Email:**  
 2339465622@qq.com
@@ -124,7 +124,7 @@ Magnetic Tracking; Signal Processing
 Magnetic Actuation and Navigation
 
 
-![PI](zengyifeng.jpg){: width="150px" style="float:left; padding-right:10px"} 
+![PI](MemberSourceDocument/zengyifeng.jpg){: width="150px" style="float:left; padding-right:10px"} 
 ### **Yifeng Zeng**  
 **Email:**  
 ​1654280015@qq.com
