@@ -28,7 +28,7 @@ The research of our Lab is focused on the following areas:
 
 ![soft magnet actuation](ResearchSourceDocument/soft-magnet_actuation.png)
 
-![orientation](ResearchSourceDocument/orientation.mp4) 
+![ResearchSourceDocument/orientation.mp4](https://github.com/MagRoboticsLab/MagRoboticsLab.github.io/blob/master/ResearchSourceDocument/orientation.mp4)
 
 > Conventional permanent magnet based magnetic actuation can only achieve 2-DoF orientation control and 5-DoF manipulation of small untethered robots. In this work, a triaxial ellipsoidal soft magnet is used as the actuation element for capsule robots instead of a permanent magnet to achieve full 3-DoF orientation manipulation.
 
