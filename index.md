@@ -4,12 +4,12 @@ navigation_weight: 1
 
 ---
 
-![lab log](lab_cover_wanglab.png)
+![lab log](HomeSourceDocument/lab_cover_wanglab.png)
 
 
 
 ---------
-![research overview](research overview.png) 
+![research overview](HomeSourceDocument/research overview.png) 
 **The research of Wang Lab is focused on the following aspects.**
 * Modeling and design of **novel magnetic sensing and actuation principles**, including new magnetic materials, structures and functions.
 * Design of **intelligent estimation, control, planning, and learning algorithms** for magnetic navigation of medical robots.
