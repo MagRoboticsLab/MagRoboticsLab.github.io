@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Magnetic and Medical Robotics Lab
+title: Magnetic Medical Robotics Lab
 description: PI Dr.Heng Wang
 navigation_weight: 4
 ---
