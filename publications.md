@@ -16,31 +16,31 @@ For all publications, please visit
 
 ### 2024
 
-* [1] Shuda Dong, Heng Wang*. "A Compact and Robust 6-DoF Pose Tracking System Using Magnetic-Inertial Sensors and a Single Uniaxial Electromagnetic Coil". IEEE Sensors Journal. [DOI: 10.1109/JSEN.2023.3348243](https://doi.org/10.1109/JSEN.2023.3348243)
-* [2] S. Liu, H. Wang*, A wireless 6-DoF pose tracking system using a triaxially anisotropic soft magnet, IEEE/ASME Transactions on Mechatronics, 2024.
+* [1] Shuda Dong, Heng Wang*, "A Compact and Robust 6-DoF Pose Tracking System Using Magnetic-Inertial Sensors and a Single Uniaxial Electromagnetic Coil", IEEE Sensors Journal. [DOI: 10.1109/JSEN.2023.3348243](https://doi.org/10.1109/JSEN.2023.3348243)
+* [2] S. Liu, H. Wang*, "A wireless 6-DoF pose tracking system using a triaxially anisotropic soft magnet", IEEE/ASME Transactions on Mechatronics. [DOI: 10.1109/TMECH.2024.3422391](https://doi.org/10.1109/TMECH.2024.3422391)
 
 ### 2023
 
-* [1] Yile Shen#, Shuda Dong#, Dekang Liu, Kaixiang Zhang, Heng Wang*. "Active 6-DoF Electromagnetic Pose Tracking Using Orientation Control of the Magnetic Source". 2023 IEEE International Conference on Robotics and Biomimetics (ROBIO).[DOI: 10.1109/ROBIO58561.2023.10354689](https://doi.org/10.1109/ROBIO58561.2023.10354689)
+* [1] Yile Shen#, Shuda Dong#, Dekang Liu, Kaixiang Zhang, Heng Wang*, "Active 6-DoF Electromagnetic Pose Tracking Using Orientation Control of the Magnetic Source", 2023 IEEE International Conference on Robotics and Biomimetics (ROBIO). [DOI: 10.1109/ROBIO58561.2023.10354689](https://doi.org/10.1109/ROBIO58561.2023.10354689)
 
-* [2] Heng Wang#*, Junhao Cui#, Kuan Tian, Yuxiang Han. "Three-degrees-of-freedom orientation manipulation of small untethered robots with a single anisotropic soft magnet". Nature Communications. (**Editors' Highlight Paper**) [DOI: 10.1038/s41467-023-42783-5](https://doi.org/10.1038/s41467-023-42783-5)
+* [2] Heng Wang#*, Junhao Cui#, Kuan Tian, Yuxiang Han, "Three-degrees-of-freedom orientation manipulation of small untethered robots with a single anisotropic soft magnet", Nature Communications. (**Editors' Highlight Paper**) [DOI: 10.1038/s41467-023-42783-5](https://doi.org/10.1038/s41467-023-42783-5)
   
-* [3] Heng Wang#, Shuda Dong#, Qi Yang, Jiancheng Han, Ze'an He, Yihua He* and Shuangyi Wang*. "A Virtual Ultrasonography Simulator for Skill Training Using Magnetic-Inertial Probe Tracking". IEEE/ASME Transactions on Mechatronics. [DOI: 10.1109/TMECH.2023.3284535](https://doi.org/10.1109/TMECH.2023.3284535)
+* [3] Heng Wang#, Shuda Dong#, Qi Yang, Jiancheng Han, Ze'an He, Yihua He* and Shuangyi Wang*, "A Virtual Ultrasonography Simulator for Skill Training Using Magnetic-Inertial Probe Tracking", IEEE/ASME Transactions on Mechatronics. [DOI: 10.1109/TMECH.2023.3284535](https://doi.org/10.1109/TMECH.2023.3284535)
 
 
 ### 2022
 
-* [1] T. Wen, H. Wang*, "Identification of Workspace of the Soft-magnet Based Position Tracking System for Medical Robots Using Parallel Experiments". IEEE Journal of Radio Frequency Identification (also reported on DTPI 2022), 2022.[DOI: 10.1109/JRFID.2022.3208748](https://doi.org/10.1109/JRFID.2022.3208748)
+* [1] T. Wen, H. Wang*, "Identification of Workspace of the Soft-magnet Based Position Tracking System for Medical Robots Using Parallel Experiments", IEEE Journal of Radio Frequency Identification (also reported on DTPI 2022), 2022. [DOI: 10.1109/JRFID.2022.3208748](https://doi.org/10.1109/JRFID.2022.3208748)
   
-* [2] H. Wang#, S. Wang#, H. Liu, K. Rhode, Z. G. Hou, R. Rajamani*, "3-D Electromagnetic Position Estimation System Using High-Magnetic-Permeability Metal for Transluminal Continuum Medical Robots", IEEE Robotics and Automation Letters (also reported on ICRA 2022).[DOI: 10.1109/LRA.2022.3141464](https://doi.org/10.1109/LRA.2022.3141464)
+* [2] H. Wang#, S. Wang#, H. Liu, K. Rhode, Z. G. Hou, R. Rajamani*, "3-D Electromagnetic Position Estimation System Using High-Magnetic-Permeability Metal for Transluminal Continuum Medical Robots", IEEE Robotics and Automation Letters (also reported on ICRA 2022). [DOI: 10.1109/LRA.2022.3141464](https://doi.org/10.1109/LRA.2022.3141464)
   
-* [3] H. Wang, A. Zemouche and R. Rajamani*, "Nonlinear Observer for Electromagnetic Position Estimation Using Active Current Control", Mechanical Systems and Signal Processing.[DOI: 10.1016/j.ymssp.2021.108449](https://doi.org/10.1016/j.ymssp.2021.108449)
+* [3] H. Wang, A. Zemouche and R. Rajamani*, "Nonlinear Observer for Electromagnetic Position Estimation Using Active Current Control", Mechanical Systems and Signal Processing. [DOI: 10.1016/j.ymssp.2021.108449](https://doi.org/10.1016/j.ymssp.2021.108449)
   
-* [4] H. Wang*, S. Wang, R. Rajamani, "Electromagnetic Angular Position Sensing Using High-Magnetic-Permeability Materials", IEEE Sensors Journal.[DOI: 10.1109/JSEN.2022.3173037](https://doi.org/10.1109/JSEN.2022.3173037)
+* [4] H. Wang*, S. Wang, R. Rajamani, "Electromagnetic Angular Position Sensing Using High-Magnetic-Permeability Materials", IEEE Sensors Journal. [DOI: 10.1109/JSEN.2022.3173037](https://doi.org/10.1109/JSEN.2022.3173037)
 
 ### 2020
 
-* [1] H. Wang and R. Rajamani*, “Electromagnetic Position Estimation Using Active Current Control and Nonlinear Observer”, Proceedings of the American Control Conference (ACC), Denver, 2020.[DOI: 10.23919/ACC45564.2020.9147237](https://doi.org/10.23919/ACC45564.2020.9147237)
+* [1] H. Wang and R. Rajamani*, “Electromagnetic Position Estimation Using Active Current Control and Nonlinear Observer”, Proceedings of the American Control Conference (ACC), Denver, 2020. [DOI: 10.23919/ACC45564.2020.9147237](https://doi.org/10.23919/ACC45564.2020.9147237)
 
 
 ### 2019
