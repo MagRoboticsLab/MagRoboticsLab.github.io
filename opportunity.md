@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Wang Lab
-description: Opportunity
+title: Magnetic and Medical Robotics Lab
+description: PI Dr.Heng Wang
 navigation_weight: 7
 ---
 
