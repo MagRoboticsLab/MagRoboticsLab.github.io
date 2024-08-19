@@ -47,8 +47,6 @@ Guangzhou, Guangdong, China
 
 ![ESB](D5.jpg){: width="800px"} 
 
-![ESB](wu1.jpg){: width="800px"} 
-
 
 
  
