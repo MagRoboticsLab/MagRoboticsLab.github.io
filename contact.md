@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Wang Lab
-description: Contact
+title: Magnetic Medical Robotics Lab
+description: PI Dr.Heng Wang
 navigation_weight: 8
 ---
 # Contact information
