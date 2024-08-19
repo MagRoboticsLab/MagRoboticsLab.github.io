@@ -35,17 +35,17 @@ Guangzhou, Guangdong, China
 ## Gallery of the South China Univerity of Technology(GZIC)
 
 
-![niaokan](liaokantu.jpg){: width="800px"} 
+![niaokantu](ContactSourceDocument/liaokantu.jpg){: width="800px"} 
 
-![library](library2.jpg){: width="800px"} 
+![library2](ContactSourceDocument/library2.jpg){: width="800px"} 
 
-![ESB](library.jpg){: width="800px"} 
+![library](ContactSourceDocument/library.jpg){: width="800px"} 
 
-![E5](E52.jpg){: width="800px"} 
+![E52](ContactSourceDocument/E52.jpg){: width="800px"} 
 
-![ESB](luori.jpg){: width="800px"} 
+![luori](ContactSourceDocument/luori.jpg){: width="800px"} 
 
-![ESB](D5.jpg){: width="800px"} 
+![D5](ContactSourceDocument/D5.jpg){: width="800px"} 
 
 
 
