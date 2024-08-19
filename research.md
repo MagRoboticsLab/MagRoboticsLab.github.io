@@ -17,7 +17,7 @@ The research of our Lab is focused on the following areas:
 
 
 
-![research overview](research overview.png) 
+![research overview](HomeSourceDocument/research overview.png) 
 
 
 # **Magnetic Capsule Robot**
@@ -26,14 +26,14 @@ The research of our Lab is focused on the following areas:
 
 [1] **H. Wang***, J. Cui, K. Tian, Y. Han, "Three-degrees-of-freedom orientation manipulation of small untethered robots with a single anisotropic soft magnet", Nature Communications, vol 14,  no. 1, 7491, Nov. 2023. (**Editor's Highlight Paper in Applied Mathematics and Physics**)
 
-![soft magnet actuation](soft-magnet actuation.png)
+![soft magnet actuation](ResearchSourceDocument/soft-magnet_actuation.png)
 
 > Conventional permanent magnet based magnetic actuation can only achieve 2-DoF orientation control and 5-DoF manipulation of small untethered robots. In this work, a triaxial ellipsoidal soft magnet is used as the actuation element for capsule robots instead of a permanent magnet to achieve full 3-DoF orientation manipulation.
 
 
 # **New Magnetic Tracking Method: Soft-Magnet-based Pose Tracking System**
 
-![principle](soft-magnet tracking_principle.png) 
+![principle](ResearchSourceDocument/soft-magnet tracking_principle.png) 
 
 > Conventional magnetic tracking systems can be categorized as electromagnet-based systems (EM) and permanent-magnet-based systems (PM). EM tracking systems use a magnetic sensor on the target to measure the magnetic field of stationary electromagnet sources for pose estimation. However, EM systems need electric wiring to the moving sensor, which is delicate and easily broken. The wiring issue also prevents the EM systems from tracking untethered robots. PM tracking systems use an array of magnetic sensors to track a permanent magnet on the target. However, PM systems can only achieve 5-DoF pose tracking and suffer from ambient ferromagnetic disturbances.
 
@@ -47,7 +47,7 @@ The research of our Lab is focused on the following areas:
 
 [4] **Heng Wang***#, Shuangyi Wang#, Rajesh Rajamani, “Electromagnetic Angular Position Sensing Using High-Magnetic-Permeability Materials”, IEEE Sensors Journal, vol. 22, no. 12, pp. 11626-11636, 2022.
 
-![1-DoF position sensing](soft-magnet tracking_1D.png) 
+![1-DoF position sensing](ResearchSourceDocument/soft-magnet tracking_1D.png) 
 
 > The soft-magnet-based position sensing principle is utilized to develop linear position measurement systems for linear industrial actuators and angular position measurement systems for rotational mechanical joints.
 
@@ -56,7 +56,7 @@ The research of our Lab is focused on the following areas:
 ## Soft-Magnet-based Tracking: 3-DoF Position Tracking of Flexible Robots
 [5] **H. Wang**#, S. Wang#, H. Liu, K. Rhode, Z. G. Hou, R. Rajamani*, “3-D Electromagnetic Position Estimation System Using High-Magnetic-Permeability Metal for Transluminal Continuum Medical Robots”,  IEEE Robotics and Automation Letters (also reported on ICRA 2022), vol. 7, no. 2, pp. 2581 – 2588, Jan. 2022.
 
-![3-DoF position tracking](soft-magnet tracking_3D.png) 
+![3-DoF position tracking](ResearchSourceDocument/soft-magnet tracking_3D.png) 
 
 >  The soft-magnet-based position sensing principle is utilized to develop a 3-DoF position tracking system for a flexible medical robot. The highly nonlinear magnetic response to soft-magnet motion is modeled. Experimental results show that the position tracking error is below 5 mm.
 
@@ -64,7 +64,7 @@ The research of our Lab is focused on the following areas:
 ## Soft-Magnet-based Tracking: 6-DoF Pose Tracking System
 [6] S. Liu, **H. Wang***, A wireless 6-DoF pose tracking system using a triaxially anisotropic soft magnet, IEEE/ASME Transactions on Mechatronics, 2024.
 
-![6-DoF pose tracking](soft-magnet tracking_6D.png) 
+![6-DoF pose tracking](ResearchSourceDocument/soft-magnet tracking_6D.png) 
 
 > The soft-magnet-based position sensing principle is extended for 6-DoF pose tracking. A triaxially anisotropic soft magnet is used as the sensitive target instead of a spherical soft magnet. The geometry-dependent anisotropic magnetization of the soft magnet enables 3-DoF orientation sensing. The developed soft-magnet tracking system can achieve full 6-DoF pose tracking with a passive magnet, which is not feasible in existing permanent-magnet tracking systems.
 
@@ -78,7 +78,7 @@ We develope active electromagnetic tracking technologies to improve tracking acc
 
 [8] **Heng Wang** and Rajesh Rajamani*, “Electromagnetic Position Estimation Using Active Current Control and Nonlinear Observer”, in 2020 American Control Conference (ACC), Denver, USA, 2020. (ASME DSCD Mechatronics TC Best Paper Award)
 
-![active current tracking](active_current.png) 
+![active current tracking](ResearchSourceDocument/active_current.png) 
 
 > The current supply to the electromagnet source is actively controlled during pose tracking. The current is increased when the sensor (target) moves away from the electromagnet to remedy the magnetic sensitivity. An optimal current profile is designed and the current is controlled according to the profile based on the position estimate of the target. A nonlinear observer is designed to guarantee stability of both current control and position estimation.
 
@@ -86,7 +86,7 @@ We develope active electromagnetic tracking technologies to improve tracking acc
 ## Active Tracking: Electromagnet Orientation Control
 [9] Y. Shen, S. Dong, D. Liu, K. Zhang, **H. Wang***, "Active 6-DoF Electromagnetic Pose Tracking Using Orientation Control of the Magnetic Source", IEEE International Conference on Robotics and Biomimetics (ROBIO), 2023.
 
-![active orientation tracking](active_orientation.png) 
+![active orientation tracking](ResearchSourceDocument/active_orientation.png) 
 
 > The orientation of the electromagnet source is actively controlled to always point to the sensor (target) to maintain the optimal tracking accuracy.
 
@@ -99,7 +99,7 @@ We fuse magnetic sensing and inertial sensing to achieve accurate and robust 6-D
 
 [10] S. Dong, **H. Wang***, A compact and robust 6-DoF pose tracking system using magnetic-inertial sensors and a single uniaxial electromagnetic coil, IEEE Sensors Journal, Dec. 2023.
 
-![magnetic-inertial tracking](magnetic_inertial.png) 
+![magnetic-inertial tracking](ResearchSourceDocument/magnetic_inertial.png) 
 
 > In magnetic-inertial tracking systems, only one electromagnetic coil is used, which makes the system compact. Fused with an inertial sensor, the tracking system become more robust.
 
@@ -107,7 +107,7 @@ We fuse magnetic sensing and inertial sensing to achieve accurate and robust 6-D
 
 [11] **H. Wang**#, S. Dong#, Q. Yang, J. Han, Z. He, Y. He*, S. Wang*, "A virtual ultrasonography simulator for skill training using magnetic-inertial probe tracking," IEEE/ASME Transactions on Mechatronics, June 2023.
 
-![virtual ultrasound](virtual_ultrasound.png) 
+![virtual ultrasound](ResearchSourceDocument/virtual_ultrasound.png) 
 
 > A compact, inexpensive, and interactive ultrasonography simulator is developed using magnetic-inertial probe tracking and virtual ultrasound image generation. Embedded with magnetic and inertial sensors, the sham ultrasound probe is tracked by fusing magnetic measurement of a single electromagnet embedded in the phantom and inertial measurement of the probe. Then the virtual scan plane is determined according to the estimated probe pose to slice the digital anatomical model
 for virtual image generation, providing visual feedback for skill training. Due to intuitive freehand interaction, accurate probe tracking, and real-time visual guidance of ultrasound images and three-dimensional (3-D) virtual scene of the probe and anatomy, the proposed simulator can provide immersive training experience for quick ultrasound skill acquirement.
@@ -116,7 +116,7 @@ for virtual image generation, providing visual feedback for skill training. Due 
 
 # **Simulation Platform for Magnetic Robots**
 
-![simulation platform](simulation.png) 
+![simulation platform](ResearchSourceDocument/simulation.png) 
 
 
 
