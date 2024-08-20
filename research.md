@@ -68,7 +68,7 @@ The research of our Lab is focused on the following areas:
 
 ![6-DoF pose tracking](ResearchSourceDocument/soft-magnet tracking_6D.png) 
 
-<iframe width="820" height="462" src="https://youtu.be/Z2tZaJzqgaU" title="Video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="820" height="462" src="https://www.youtube.com/watch?v=Z2tZaJzqgaU" title="Video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 > The soft-magnet-based position sensing principle is extended for 6-DoF pose tracking. A triaxially anisotropic soft magnet is used as the sensitive target instead of a spherical soft magnet. The geometry-dependent anisotropic magnetization of the soft magnet enables 3-DoF orientation sensing. The developed soft-magnet tracking system can achieve full 6-DoF pose tracking with a passive magnet, which is not feasible in existing permanent-magnet tracking systems.
 
