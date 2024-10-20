@@ -16,8 +16,11 @@ For all publications, please visit
 
 ### 2024
 
-* [1] Shuda Dong, Heng Wang*, "A Compact and Robust 6-DoF Pose Tracking System Using Magnetic-Inertial Sensors and a Single Uniaxial Electromagnetic Coil", IEEE Sensors Journal. [DOI: 10.1109/JSEN.2023.3348243](https://doi.org/10.1109/JSEN.2023.3348243)
-* [2] S. Liu, H. Wang*, "A wireless 6-DoF pose tracking system using a triaxially anisotropic soft magnet", IEEE/ASME Transactions on Mechatronics. [DOI: 10.1109/TMECH.2024.3422391](https://doi.org/10.1109/TMECH.2024.3422391)
+* [1] T. Wen, S. Liu, H. Wang*, "Soft-magnet-based Position Estimation Using an Approximate Extended Kalman Filter with a Hybrid Analytical-Neural Network Model", IEEE Transactions on Instrumentation and Measurement, 2024.
+* [2] S. Dong, H. Wang*, "A Robust Tri-Electromagnet-Based 6-DoF Pose Tracking System Using an Error-State Kalman Filter", Sensors, vol. 24, no. 18, 2024. 
+[DOI: 10.3390/s24185956](https://doi.org/10.3390/s24185956)
+* [3] Shuda Dong, Heng Wang*, "A Compact and Robust 6-DoF Pose Tracking System Using Magnetic-Inertial Sensors and a Single Uniaxial Electromagnetic Coil", IEEE Sensors Journal. [DOI: 10.1109/JSEN.2023.3348243](https://doi.org/10.1109/JSEN.2023.3348243)
+* [4] S. Liu, H. Wang*, "A wireless 6-DoF pose tracking system using a triaxially anisotropic soft magnet", IEEE/ASME Transactions on Mechatronics. [DOI: 10.1109/TMECH.2024.3422391](https://doi.org/10.1109/TMECH.2024.3422391)
 
 ### 2023
 
