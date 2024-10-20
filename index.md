@@ -23,7 +23,15 @@ navigation_weight: 1
 ## Group News
 
 **2024**
+* (Oct 20, 2024) Our paper titled "Soft-magnet-based Position Estimation Using an Approximate Extended Kalman Filter with a Hybrid Analytical-Neural Network Model" has been accepted by **IEEE Transactions on Instrumentation and Measurement**!
+
+* (Oct 8, 2024) Shuda Dong won the National Scholarship. Congratulations!
+
 * (June 30, 2024) Our paper titled "A Wireless 6-DoF Pose Tracking System Using a Triaxially Anisotropic Soft Magnet" has been accepted by **IEEE/ASME Transactions on Mechatronics**!
+
+* (June 26, 2024) Xinlei Zhang won the honor of Outstanding Thesis. Congratulations!
+
+* (June 26, 2024) Undergraduate research assistants in our lab, Xinlei Zhang, Yile Shen, Kuan Tian, Dekang Liu, Yifeng Zeng, have graduated with a bachelor's degree. Congratulations and wish you a bright future!
 
 * (Jan. 05, 2024) Our paper titled "A Compact and Robust 6-DoF Pose Tracking System Using Magnetic-Inertial Sensors and a Single Uniaxial Electromagnetic Coil" has been accepted by **IEEE Sensors Journal**!
 
