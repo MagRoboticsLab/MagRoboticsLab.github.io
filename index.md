@@ -26,7 +26,7 @@ navigation_weight: 1
 
 * (May 30, 2025) Our paper titled "Active Electromagnetic Tracking System with Directionally Uniform and High Accuracy Using 2-DoF Orientation Control of the Magnetic Source" has been accepted by **IEEE Transactions on Instrumentation and Measurement**!
 
-* (May 21, 2025) We launched our commercial electromagnetic tracking system (**MagTrack** System) for precise surgical navigation on the 9th Nonlinear System and Control Conference, which was reported by Guangzhou Daily （广州日报）
+* (May 21, 2025) We launched our commercial electromagnetic tracking system (**MagTrack** System) for precise surgical navigation on the 9th Nonlinear System and Control Conference, which was reported by Guangzhou Daily. [广州日报]([https://doi.org/10.1109/TIM.2025.3580828](https://gzdaily.dayoo.com/h5/html5/2025-06/11/content_877_888657.htm?curr=))
 
 **2024**
 
