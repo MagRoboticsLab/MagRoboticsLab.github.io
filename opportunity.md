@@ -17,8 +17,8 @@ navigation_weight: 7
 
 Please send **1) resume/CV**, **2) academic publications** in a single PDF to Dr. Heng Wang via email **wanghengscut@scut.edu.cn**.
 
-## Opening positions for PhD and Master students for Fall 2025
-* We are looking for potential PhD/Master students for **Fall 2025** who are interested in **magnetic and medical robotics** to apply. 
+## Opening positions for PhD and Master students for Fall 2026
+* We are looking for potential PhD/Master students for **Fall 2026** who are interested in **magnetic and medical robotics** to apply. 
 
 Please send your **resume/CV**, **academic publications** and **transcripts** in a single PDF to Dr. Heng Wang via email **wanghengscut@scut.edu.cn**.  
 
