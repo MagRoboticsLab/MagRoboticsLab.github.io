@@ -14,9 +14,13 @@ For all publications, please visit
 ## **Paper**
 *(#: Co-first author;* **: Corresponding author)*
 
+### 2025
+
+* [1] G. Teng#, S. Dong#, J. Zhou, D. Liu, Y. Zeng, S. Wang, and H. Wang*, "Active Electromagnetic Tracking System with Directionally Uniform and High Accuracy Using 2-DoF Orientation Control of the Magnetic Source", IEEE Transactions on Instrumentation and Measurement, 2025. (Early Access) [DOI: 10.1109/TIM.2025.3580828](https://doi.org/10.1109/TIM.2025.3580828)
+
 ### 2024
 
-* [1] T. Wen, S. Liu, H. Wang*, "Soft-magnet-based Position Estimation Using an Approximate Extended Kalman Filter with a Hybrid Analytical-Neural Network Model", IEEE Transactions on Instrumentation and Measurement, 2024.
+* [1] T. Wen, S. Liu, H. Wang*, "Soft-magnet-based Position Estimation Using an Approximate Extended Kalman Filter with a Hybrid Analytical-Neural Network Model", IEEE Transactions on Instrumentation and Measurement, vol. 74, 7500113, 2024. [DOI: 10.1109/TIM.2024.3497169](https://doi.org/10.1109/TIM.2024.3497169)
 
 * [2] S. Dong, H. Wang*, "A Robust Tri-Electromagnet-Based 6-DoF Pose Tracking System Using an Error-State Kalman Filter", Sensors, vol. 24, no. 18, 2024. 
 [DOI: 10.3390/s24185956](https://doi.org/10.3390/s24185956)
