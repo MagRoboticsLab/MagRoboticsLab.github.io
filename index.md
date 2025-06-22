@@ -22,10 +22,19 @@ navigation_weight: 1
 
 ## Group News
 
+**2025**
+
+* (May 30, 2025) Our paper titled "Active Electromagnetic Tracking System with Directionally Uniform and High Accuracy Using 2-DoF Orientation Control of the Magnetic Source" has been accepted by **IEEE Transactions on Instrumentation and Measurement**!
+
+* (May 21, 2025) We launched our commercial electromagnetic tracking system (**MagTrack** System) for precise surgical navigation on the 9th Nonlinear System and Control Conference, which was reported by Guangzhou Daily （广州日报）
+
 **2024**
+
+*  (Dec. 25, 2024) We hosted a seminar talk by **Dr. Zonghu Han** from University of Minnesota on "Long-term Organ Cryopreservation Technology for Transplantation".
+
 * (Oct 20, 2024) Our paper titled "Soft-magnet-based Position Estimation Using an Approximate Extended Kalman Filter with a Hybrid Analytical-Neural Network Model" has been accepted by **IEEE Transactions on Instrumentation and Measurement**!
 
-* (Oct 8, 2024) Shuda Dong won the **National Scholarship**. Congratulations!
+* (Oct 8, 2024) Shuda Dong and Junhao Cui won the **National Scholarship**. Congratulations!
 
 * (June 30, 2024) Our paper titled "A Wireless 6-DoF Pose Tracking System Using a Triaxially Anisotropic Soft Magnet" has been accepted by **IEEE/ASME Transactions on Mechatronics**!
 
@@ -41,7 +50,7 @@ navigation_weight: 1
 
 * (Nov. 18, 2023) Our paper titled "Three-degrees-of-freedom orientation manipulation of small untethered robots with a single anisotropic soft magnet" has been accepted by **Nature Communications** and selected as the **editors' highlight paper** in the area of "Applied Mathematics and Physics"! This work proposes a new soft-magnet-based magnetic actuation method and achieved full 3-DoF orientation manipulation of a single magnetic object, which is not feasible for existing permanent-magnet-based robots.
 
-* (Jul. 26, 2023) We hosted a seminar talk by Prof. Shuangyi Wang from the Institute of Automation, Chinese Academy of Sciences on "Practice and Exploration of Robotic Upgrades in Medical Diagnosis and Treatment Equipment".
+* (Jul. 26, 2023) We hosted a seminar talk by **Prof. Shuangyi Wang** from the Institute of Automation, Chinese Academy of Sciences on "Practice and Exploration of Robotic Upgrades in Medical Diagnosis and Treatment Equipment".
 
 * (Jun. 28, 2023) Our paper titled "A Virtual Ultrasonography Simulator for Skill Training Using Magnetic-Inertial Probe Tracking" has been accepted by **IEEE/ASME Transactions on Mechatronics**!
 
